@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    
+    <meta name="viewport"
+    content="width=device-width,initial-scale=1.0">
+    
+    <title>TechNova</title>
+
+    <link rel="stylesheet"
+    href="style.css">
+
+</head>
+
+<body>
+    <header>
+        <nav>
+            <h2 class="logo">TechNova</h2>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Features</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section class="hero">
+        <div class="hero-text">
+            <h1>Build Your Dream Website</h1>
+            <p>Create beautiful websites using HTML and CSS with responsive design.</p>
+            <a href="#" class="btn">Get Started</a>
+        </div>
+        <div class="hero-image">
+            <img scr="https://images.unsplash.com/photo-1518770660439-4636190af475?w=600" alt="">
+        </div>
+        </section>
+        <section class="Features">
+            <h2>Our Features</h2>
+            <div class="cards">
+                <div class="card">
+                    <h3>Fast</h3>
+                    <p>Lightning fast responsive design</p>
+                </div>
+                <div class="card">
+                    <h3>Secure</h3>
+                    <p>Modern and secure layouts</p>
+                </div>
+                <div class="card">
+                    <h3>Responsive</h3>
+                    <p>Works on mobile,tablet and desktop</p>
+                </div>
+                
+            </div>
+        </section>
+        <section class="about">
+            <h2>About Us</h2>
+            <p>
+                Tech Nova creates attractive modern websites using HTMLand CSS.
+                Our goal is to build professional and responsive web pages.
+            </p>
+        </section>
+        <footer>
+            <h3>Contact Us</h3>
+            <p>Email:info@technova.com</p>
+            <p>instagram|Linkedin|Github</p>
+            <P>2026 TechNova </P>
+        </footer>
+        </body>
+        </html>
